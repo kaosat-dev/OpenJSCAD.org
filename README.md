@@ -8,9 +8,7 @@ as well CLI (command-line interface) for server-side computations with NodeJS.
 [![GitHub version](https://badge.fury.io/gh/Spiritdude%2FOpenJSCAD.org.svg)](https://badge.fury.io/gh/Spiritdude%2FOpenJSCAD.org)
 [![experimental](http://badges.github.io/stability-badges/dist/stable.svg)](http://github.com/badges/stability-badges)
 [![Build Status](https://travis-ci.org/Spiritdude/OpenJSCAD.org.svg)](https://travis-ci.org/Spiritdude/OpenJSCAD.org)
-[![Dependency Status](https://david-dm.org/Spiritdude/OpenJSCAD.org.svg)](https://david-dm.org/Spiritdude/OpenJSCAD.org)
-[![devDependency Status](https://david-dm.org/Spiritdude/OpenJSCAD.org/dev-status.svg)](https://david-dm.org/Spiritdude/OpenJSCAD.org#info=devDependencies)
-
+[![Dependency Status](https://img.shields.io/Spiritdude/OpenJSCAD.org/OpenJSCAD.org.svg?style=flat-square)](https://david-dm.org/Spiritdude/OpenJSCAD.org#info=dependencies)
 
 
 ## Table of Contents
